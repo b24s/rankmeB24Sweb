@@ -1,0 +1,8 @@
+body { 
+background-image: url(../img/bg.png);
+}
+#container {
+	margin: 0 auto;
+	width: 95%;
+	text-align: center;
+}
