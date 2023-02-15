@@ -3,6 +3,8 @@
 # B24S 2023 rankme B24S web #
 #############################
 
+<img src="https://b24s.eu/images/dashboard.jpg">
+
 Demo site https://b24s.eu/rankme_stats
 
 Install:  Upload all files except readme.txt.
