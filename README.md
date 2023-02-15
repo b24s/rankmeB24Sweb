@@ -27,3 +27,5 @@ Many thanks to you two for these good plugins!
 
 I wish you lots of fun trying it out!
 Sincerely, B24S
+
+Donate: https://streamlabs.com/igorwidiger1/tip
