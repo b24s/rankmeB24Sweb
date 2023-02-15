@@ -5,6 +5,10 @@
 
 <img src="https://b24s.eu/images/dashboard.jpg">
 
+<img src="https://b24s.eu/images/players.jpg">
+
+<img src="https://b24s.eu/images/ranks.jpg">
+
 Demo site https://b24s.eu/rankme_stats
 
 Install:  Upload all files except readme.txt.
